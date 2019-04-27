@@ -1,0 +1,1 @@
+javascript:Q=document.selection?document.selection.createRange().text:document.getSelection();void(window.open('http://www.accessify.com/tools-and-wizards/developer-tools/acrobot/default.php?text='+escape(Q),'acrobot','scrollbars=yes,width=800,height=700,left=0,top=0,resizable=yes,status=yes'));
